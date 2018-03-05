@@ -1,2 +1,6 @@
-# DR-SQS-Statistics
-Statistical view of SQS project
+Packages used:
+
+D3.JS
+React.JS
+rd3
+

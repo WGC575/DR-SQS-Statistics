@@ -1,0 +1,837 @@
+{
+  "nodes": [
+    {
+      "id": "aa75c23b2e51c8d42730c8b410e6a7148a7bb094",
+      "time": "2016-11-22 14:41:58.0",
+      "sonarqube_combined_issues_uni.major": 13163.0,
+      "type": "circle",
+      "author": "aabrasha@gmail.com",
+      "sonarqube_combined_issues_uni.total": 16870.0
+    },
+    {
+      "id": "b836907ddbc53d8c47d2e2a6a36a690faa2d82e6",
+      "time": "2016-11-17 09:51:00.0",
+      "sonarqube_combined_issues_uni.major": 13198.0,
+      "type": "circle",
+      "author": "ggregory@apache.org",
+      "sonarqube_combined_issues_uni.total": 16908.0
+    },
+    {
+      "id": "050b67d4f88d60e03a57fa5cf2177088b8224092",
+      "time": "2016-11-17 11:36:51.0",
+      "sonarqube_combined_issues_uni.major": 13198.0,
+      "type": "circle",
+      "author": "ggregory@apache.org",
+      "sonarqube_combined_issues_uni.total": 16918.0
+    },
+    {
+      "id": "2cd3f0f10a797b744509903b8eca4fd2fd4ed6f6",
+      "time": "2016-11-28 13:27:25.0",
+      "sonarqube_combined_issues_uni.major": 13163.0,
+      "type": "circle",
+      "author": "garydgregory@gmail.com",
+      "sonarqube_combined_issues_uni.total": 16870.0
+    },
+    {
+      "id": "8d95ae41975a2307501aa0f4a7eba296c59edce9",
+      "time": "2016-08-16 09:00:00.0",
+      "sonarqube_combined_issues_uni.major": 13122.0,
+      "type": "circle",
+      "author": "igardais@yahoo.fr",
+      "sonarqube_combined_issues_uni.total": 16775.0
+    },
+    {
+      "id": "a9f350eb94eb9f165bb5dd13912fbde3eced2dbc",
+      "time": "2016-12-14 14:28:40.0",
+      "sonarqube_combined_issues_uni.major": 13545.0,
+      "type": "circle",
+      "author": "ggregory@apache.org",
+      "sonarqube_combined_issues_uni.total": 17378.0
+    },
+    {
+      "id": "0f6a292a29fedd49741310cd517ac4ba907bf8d4",
+      "time": "2016-11-06 10:38:43.0",
+      "sonarqube_combined_issues_uni.major": 13173.0,
+      "type": "circle",
+      "author": "pascalschumacher@gmx.net",
+      "sonarqube_combined_issues_uni.total": 16885.0
+    },
+    {
+      "id": "efdff37fbacefe35c6f459b6f8a7483d3da85f8c",
+      "time": "2016-11-16 15:35:23.0",
+      "sonarqube_combined_issues_uni.major": 13178.0,
+      "type": "circle",
+      "author": "ggregory@apache.org",
+      "sonarqube_combined_issues_uni.total": 16890.0
+    },
+    {
+      "id": "ec700cf69db225654aadce932dc000bdab302ccd",
+      "time": "2016-11-16 16:41:57.0",
+      "sonarqube_combined_issues_uni.major": 13183.0,
+      "type": "circle",
+      "author": "ggregory@apache.org",
+      "sonarqube_combined_issues_uni.total": 16893.0
+    },
+    {
+      "id": "82d76aca8b4d845ed7bc5c74280f089c35447637",
+      "time": "2016-11-30 11:27:55.0",
+      "sonarqube_combined_issues_uni.major": 13163.0,
+      "type": "circle",
+      "author": "tmartin193@gmail.com",
+      "sonarqube_combined_issues_uni.total": 16870.0
+    },
+    {
+      "id": "5df67bf13af9a044f3bf7d8df3bd2daa763843a7",
+      "time": "2016-11-17 11:49:17.0",
+      "sonarqube_combined_issues_uni.major": 13198.0,
+      "type": "circle",
+      "author": "ggregory@apache.org",
+      "sonarqube_combined_issues_uni.total": 16918.0
+    },
+    {
+      "id": "9f89fd4626bbb4e34a905835e397bcffbad59307",
+      "time": "2016-10-28 12:55:22.0",
+      "sonarqube_combined_issues_uni.major": 13160.0,
+      "type": "circle",
+      "author": "pascalschumacher@gmx.net",
+      "sonarqube_combined_issues_uni.total": 16852.0
+    },
+    {
+      "id": "def3c4672b1f99b35ec1fb1aaa316e6043463d73",
+      "time": "2016-11-27 15:41:23.0",
+      "sonarqube_combined_issues_uni.major": 13163.0,
+      "type": "circle",
+      "author": "garydgregory@gmail.com",
+      "sonarqube_combined_issues_uni.total": 16870.0
+    },
+    {
+      "id": "ea666d523021a3c33294030e7c6ac49a77be543a",
+      "time": "2016-11-04 10:32:39.0",
+      "sonarqube_combined_issues_uni.major": 13092.0,
+      "type": "circle",
+      "author": "pascalschumacher@gmx.net",
+      "sonarqube_combined_issues_uni.total": 16744.0
+    },
+    {
+      "id": "09c52410e62b0e1e221d413d7ab18feefcca6bf7",
+      "time": "2016-11-18 12:13:42.0",
+      "sonarqube_combined_issues_uni.major": 13152.0,
+      "type": "circle",
+      "author": "ggregory@apache.org",
+      "sonarqube_combined_issues_uni.total": 16845.0
+    },
+    {
+      "id": "7e605378202fe4e6c9f4aa6a10201b4205238710",
+      "time": "2017-01-20 08:47:20.0",
+      "sonarqube_combined_issues_uni.major": 13575.0,
+      "type": "circle",
+      "author": "pascalschumacher@gmx.net",
+      "sonarqube_combined_issues_uni.total": 17418.0
+    },
+    {
+      "id": "05647d46e9ac2bf674b320e8467616aa72954f3e",
+      "time": "2016-11-04 09:20:56.0",
+      "sonarqube_combined_issues_uni.major": 13092.0,
+      "type": "circle",
+      "author": "pascalschumacher@gmx.net",
+      "sonarqube_combined_issues_uni.total": 16744.0
+    },
+    {
+      "id": "b0bcf4f60a1e92480d78e44e3fda6e42cfc1b207",
+      "time": "2016-11-17 22:37:56.0",
+      "sonarqube_combined_issues_uni.major": 13152.0,
+      "type": "circle",
+      "author": "ggregory@apache.org",
+      "sonarqube_combined_issues_uni.total": 16845.0
+    },
+    {
+      "id": "795fe5d869594bde53f8490d75eedef6185b6c37",
+      "time": "2016-12-12 06:00:19.0",
+      "sonarqube_combined_issues_uni.major": 13532.0,
+      "type": "circle",
+      "author": "duncan@wortharead.com",
+      "sonarqube_combined_issues_uni.total": 17365.0
+    },
+    {
+      "id": "ab0570e63aae3027239dcd5d22caab95111a5de8",
+      "time": "2016-11-16 16:43:33.0",
+      "sonarqube_combined_issues_uni.major": 13178.0,
+      "type": "circle",
+      "author": "ggregory@apache.org",
+      "sonarqube_combined_issues_uni.total": 16888.0
+    },
+    {
+      "id": "c0c7112dcdeb75b521d55cd47d0c61be66b0499e",
+      "time": "2015-05-04 14:23:49.0",
+      "sonarqube_combined_issues_uni.major": 13167.0,
+      "type": "circle",
+      "author": "jamessawle@hotmail.com",
+      "sonarqube_combined_issues_uni.total": 16864.0
+    },
+    {
+      "id": "c37a911d3a1541adc25c8d76f717015b2266d123",
+      "time": "2016-10-13 02:55:17.0",
+      "sonarqube_combined_issues_uni.major": 13042.0,
+      "type": "circle",
+      "author": "kinow@apache.org",
+      "sonarqube_combined_issues_uni.total": 16679.0
+    },
+    {
+      "id": "33c104e1b4aee768558c63b2a43a88132ff93f6b",
+      "time": "2016-11-16 16:21:05.0",
+      "sonarqube_combined_issues_uni.major": 13178.0,
+      "type": "circle",
+      "author": "ggregory@apache.org",
+      "sonarqube_combined_issues_uni.total": 16890.0
+    },
+    {
+      "id": "23c706ff915c4be7d371d3098fc8de2cc3aa2b67",
+      "time": "2016-11-16 16:47:00.0",
+      "sonarqube_combined_issues_uni.major": 13198.0,
+      "type": "circle",
+      "author": "ggregory@apache.org",
+      "sonarqube_combined_issues_uni.total": 16908.0
+    },
+    {
+      "id": "dfd69e038cc7035031d1807c4ade870d2a7e2ece",
+      "time": "2016-11-18 13:38:44.0",
+      "sonarqube_combined_issues_uni.major": 13163.0,
+      "type": "circle",
+      "author": "ggregory@apache.org",
+      "sonarqube_combined_issues_uni.total": 16860.0
+    },
+    {
+      "id": "f643b4fa939e89348618ddffae20a804f4461363",
+      "time": "2016-12-13 22:25:07.0",
+      "sonarqube_combined_issues_uni.major": 13545.0,
+      "type": "circle",
+      "author": "duncan@wortharead.com",
+      "sonarqube_combined_issues_uni.total": 17378.0
+    },
+    {
+      "id": "0136218fa363560cba9b2378d979f64a35e9b425",
+      "time": "2016-12-01 11:54:48.0",
+      "sonarqube_combined_issues_uni.major": 13163.0,
+      "type": "circle",
+      "author": "duncan@wortharead.com",
+      "sonarqube_combined_issues_uni.total": 16870.0
+    },
+    {
+      "id": "f3d2d55ab9b783af65f2050272cd0318a9ad23a2",
+      "time": "2016-11-16 15:32:40.0",
+      "sonarqube_combined_issues_uni.major": 13178.0,
+      "type": "circle",
+      "author": "ggregory@apache.org",
+      "sonarqube_combined_issues_uni.total": 16890.0
+    },
+    {
+      "id": "429c847b24d2c4adb0b9768d1e38bf05e5bafb7b",
+      "time": "2016-11-18 12:13:57.0",
+      "sonarqube_combined_issues_uni.major": 13163.0,
+      "type": "circle",
+      "author": "ggregory@apache.org",
+      "sonarqube_combined_issues_uni.total": 16860.0
+    },
+    {
+      "id": "011775551ef75d75f81189eb4604fd0f2ed424ba",
+      "time": "2016-11-06 12:06:52.0",
+      "sonarqube_combined_issues_uni.major": 13163.0,
+      "type": "circle",
+      "author": "pascalschumacher@gmx.net",
+      "sonarqube_combined_issues_uni.total": 16870.0
+    },
+    {
+      "id": "1b362986bc99c04941d046ebb36e19c370435b1f",
+      "time": "2016-11-30 12:55:24.0",
+      "sonarqube_combined_issues_uni.major": 13163.0,
+      "type": "circle",
+      "author": "pascalschumacher@gmx.net",
+      "sonarqube_combined_issues_uni.total": 16870.0
+    },
+    {
+      "id": "d0e2bfc46659025e6262b2e5de984a8359c9dada",
+      "time": "2017-01-20 08:40:38.0",
+      "sonarqube_combined_issues_uni.major": 13575.0,
+      "type": "circle",
+      "author": "pascalschumacher@gmx.net",
+      "sonarqube_combined_issues_uni.total": 17418.0
+    },
+    {
+      "id": "928e74f73f62f241c986f6ff609575e1d833413d",
+      "time": "2017-01-20 08:49:11.0",
+      "sonarqube_combined_issues_uni.major": 13575.0,
+      "type": "circle",
+      "author": "pascalschumacher@gmx.net",
+      "sonarqube_combined_issues_uni.total": 17418.0
+    },
+    {
+      "id": "600eb9eb99dc5c03b047e3c81b49ee4769787c6a",
+      "time": "2016-12-18 01:53:26.0",
+      "sonarqube_combined_issues_uni.major": 13575.0,
+      "type": "circle",
+      "author": "duncan@wortharead.com",
+      "sonarqube_combined_issues_uni.total": 17408.0
+    },
+    {
+      "id": "f13d18cff3f0932e727dda04bf80008fc2fbbc70",
+      "time": "2016-12-12 07:25:18.0",
+      "sonarqube_combined_issues_uni.major": 13532.0,
+      "type": "circle",
+      "author": "duncan@wortharead.com",
+      "sonarqube_combined_issues_uni.total": 17365.0
+    },
+    {
+      "id": "c14890f08b9bb47ab8ad27f4dd4c714e32961d0d",
+      "time": "2016-11-15 22:07:43.0",
+      "sonarqube_combined_issues_uni.major": 13183.0,
+      "type": "circle",
+      "author": "ilgrosso@apache.org",
+      "sonarqube_combined_issues_uni.total": 16895.0
+    },
+    {
+      "id": "0f87dceb80b432b434dbd81ed4f1ab97c740efc1",
+      "time": "2016-11-16 16:45:53.0",
+      "sonarqube_combined_issues_uni.major": 13178.0,
+      "type": "circle",
+      "author": "ggregory@apache.org",
+      "sonarqube_combined_issues_uni.total": 16888.0
+    },
+    {
+      "id": "9dcd87f9c46786f3da54af7ac1ba4696840dffa8",
+      "time": "2016-11-18 12:30:22.0",
+      "sonarqube_combined_issues_uni.major": 13163.0,
+      "type": "circle",
+      "author": "ggregory@apache.org",
+      "sonarqube_combined_issues_uni.total": 16860.0
+    },
+    {
+      "id": "cdfb2aa1e1ae3029e5d73cb3b5ca90c7df222c8a",
+      "time": "2016-12-14 12:46:10.0",
+      "sonarqube_combined_issues_uni.major": 13545.0,
+      "type": "circle",
+      "author": "duncan@wortharead.com",
+      "sonarqube_combined_issues_uni.total": 17378.0
+    },
+    {
+      "id": "855a5238558d87dd70c6195e12f167b5848808bb",
+      "time": "2016-12-18 00:47:21.0",
+      "sonarqube_combined_issues_uni.major": 13545.0,
+      "type": "circle",
+      "author": "duncan@wortharead.com",
+      "sonarqube_combined_issues_uni.total": 17378.0
+    },
+    {
+      "id": "f55530a2ffd3c481f6554d98e9d73f2e8c62ec8d",
+      "time": "2016-11-18 13:36:09.0",
+      "sonarqube_combined_issues_uni.major": 13163.0,
+      "type": "circle",
+      "author": "ggregory@apache.org",
+      "sonarqube_combined_issues_uni.total": 16860.0
+    },
+    {
+      "id": "35c27d025beba1c1a26c6a4a101ef4e4602274cd",
+      "time": "2016-12-04 13:25:27.0",
+      "sonarqube_combined_issues_uni.major": 13532.0,
+      "type": "circle",
+      "author": "tmartin193@gmail.com",
+      "sonarqube_combined_issues_uni.total": 17365.0
+    },
+    {
+      "id": "a069c490e8119189fa2b43d3b597b79b3d42a367",
+      "time": "2016-10-23 10:07:04.0",
+      "sonarqube_combined_issues_uni.major": 13092.0,
+      "type": "circle",
+      "author": "pascalschumacher@gmx.net",
+      "sonarqube_combined_issues_uni.total": 16744.0
+    },
+    {
+      "id": "657704627b297a19a693645cf03c5c70ccd9a8bd",
+      "time": "2016-12-18 00:32:39.0",
+      "sonarqube_combined_issues_uni.major": 13545.0,
+      "type": "circle",
+      "author": "duncan@wortharead.com",
+      "sonarqube_combined_issues_uni.total": 17378.0
+    },
+    {
+      "id": "a08ec31dbf212a033953dc6916a743dccbb93e37",
+      "time": "2016-12-01 11:28:28.0",
+      "sonarqube_combined_issues_uni.major": 13163.0,
+      "type": "circle",
+      "author": "duncan@wortharead.com",
+      "sonarqube_combined_issues_uni.total": 16870.0
+    },
+    {
+      "id": "b6d35656f4b0dde16c2e6e5a04c1487e244708a8",
+      "time": "2016-11-03 14:18:41.0",
+      "sonarqube_combined_issues_uni.major": 13163.0,
+      "type": "circle",
+      "author": "pascalschumacher@gmx.net",
+      "sonarqube_combined_issues_uni.total": 16860.0
+    },
+    {
+      "id": "db12f89ad2e153d8494a92ee3a50a23faeb14912",
+      "time": "2016-11-22 13:01:01.0",
+      "sonarqube_combined_issues_uni.major": 13163.0,
+      "type": "circle",
+      "author": "aabrasha@gmail.com",
+      "sonarqube_combined_issues_uni.total": 16870.0
+    },
+    {
+      "id": "bd5cc81ed7f91865aee7a5a7febeb237220d0c5a",
+      "time": "2016-12-14 14:22:34.0",
+      "sonarqube_combined_issues_uni.major": 13545.0,
+      "type": "circle",
+      "author": "ggregory@apache.org",
+      "sonarqube_combined_issues_uni.total": 17378.0
+    },
+    {
+      "id": "d79e43216faba4b3e73536915bfddc550cc0f20f",
+      "time": "2015-07-20 05:29:35.0",
+      "sonarqube_combined_issues_uni.major": 13092.0,
+      "type": "circle",
+      "author": "saifasifmirza@gmail.com",
+      "sonarqube_combined_issues_uni.total": 16744.0
+    },
+    {
+      "id": "7f7fa03eac02850550cb28f370a4d2adbb2295fb",
+      "time": "2016-12-13 22:27:30.0",
+      "sonarqube_combined_issues_uni.major": 13545.0,
+      "type": "circle",
+      "author": "duncan@wortharead.com",
+      "sonarqube_combined_issues_uni.total": 17378.0
+    },
+    {
+      "id": "ff4497aff8cc9de4e0b2c6e5e23e5b6550f76f29",
+      "time": "2016-10-31 12:01:39.0",
+      "sonarqube_combined_issues_uni.major": 13092.0,
+      "type": "circle",
+      "author": "pascalschumacher@gmx.net",
+      "sonarqube_combined_issues_uni.total": 16744.0
+    },
+    {
+      "id": "8d601ab71228f7c3dff950540e7ee6e4043e9053",
+      "time": "2016-10-28 13:36:11.0",
+      "sonarqube_combined_issues_uni.major": 13153.0,
+      "type": "circle",
+      "author": "pascalschumacher@gmx.net",
+      "sonarqube_combined_issues_uni.total": 16805.0
+    },
+    {
+      "id": "2d6dea18b08caf615329eef0032f16911c5388d0",
+      "time": "2016-11-23 01:13:35.0",
+      "sonarqube_combined_issues_uni.major": 13163.0,
+      "type": "circle",
+      "author": "britter@apache.org",
+      "sonarqube_combined_issues_uni.total": 16870.0
+    },
+    {
+      "id": "044367419dd317eb9f9935d8360280b8b8695462",
+      "time": "2017-01-20 09:39:16.0",
+      "sonarqube_combined_issues_uni.major": 13575.0,
+      "type": "circle",
+      "author": "pascalschumacher@gmx.net",
+      "sonarqube_combined_issues_uni.total": 17414.0
+    },
+    {
+      "id": "c9a5e54a7c0b4c0be46940d136677a2c9f052ed7",
+      "time": "2016-11-16 16:46:23.0",
+      "sonarqube_combined_issues_uni.major": 13198.0,
+      "type": "circle",
+      "author": "ggregory@apache.org",
+      "sonarqube_combined_issues_uni.total": 16908.0
+    },
+    {
+      "id": "86a082e8be8c51f07079ded82d6d125c9efc1791",
+      "time": "2017-01-20 09:48:13.0",
+      "sonarqube_combined_issues_uni.major": 13575.0,
+      "type": "circle",
+      "author": "pascalschumacher@gmx.net",
+      "sonarqube_combined_issues_uni.total": 17412.0
+    },
+    {
+      "id": "e6b830bf95f712672cb9e77cd852606cd134c5fc",
+      "time": "2016-11-17 11:27:53.0",
+      "sonarqube_combined_issues_uni.major": 13198.0,
+      "type": "circle",
+      "author": "ggregory@apache.org",
+      "sonarqube_combined_issues_uni.total": 16918.0
+    },
+    {
+      "id": "ebcef2d16a81bfe1a818a362fd03cb5063640003",
+      "time": "2017-02-03 10:03:04.0",
+      "sonarqube_combined_issues_uni.major": 13575.0,
+      "type": "circle",
+      "author": "sebastian@topobyte.de",
+      "sonarqube_combined_issues_uni.total": 17412.0
+    },
+    {
+      "id": "695342cb1cef42f30fd1a8496f181c92b21ae82d",
+      "time": "2016-11-15 02:49:11.0",
+      "sonarqube_combined_issues_uni.major": 13163.0,
+      "type": "circle",
+      "author": "ivan.morozov@kreditech.com",
+      "sonarqube_combined_issues_uni.total": 16860.0
+    },
+    {
+      "id": "bd7788b384a87024ddd6bbe6a9bd9a167cf2ec12",
+      "time": "2017-01-20 09:46:34.0",
+      "sonarqube_combined_issues_uni.major": 13575.0,
+      "type": "circle",
+      "author": "pascalschumacher@gmx.net",
+      "sonarqube_combined_issues_uni.total": 17414.0
+    },
+    {
+      "id": "0095d8adf26b9469115b1be0358cb09d1fcb5fd4",
+      "time": "2016-10-23 10:56:28.0",
+      "sonarqube_combined_issues_uni.major": 13173.0,
+      "type": "circle",
+      "author": "pascalschumacher@gmx.net",
+      "sonarqube_combined_issues_uni.total": 16885.0
+    }
+  ],
+  "application": "apache-commons-lang",
+  "links": [
+    {
+      "sonarqube_combined_issues_uni__total": 10.0,
+      "source": "b836907ddbc53d8c47d2e2a6a36a690faa2d82e6",
+      "sonarqube_combined_issues_uni__major": 0.0,
+      "target": "e6b830bf95f712672cb9e77cd852606cd134c5fc"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 0.0,
+      "source": "050b67d4f88d60e03a57fa5cf2177088b8224092",
+      "sonarqube_combined_issues_uni__major": 0.0,
+      "target": "5df67bf13af9a044f3bf7d8df3bd2daa763843a7"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 0.0,
+      "source": "2cd3f0f10a797b744509903b8eca4fd2fd4ed6f6",
+      "sonarqube_combined_issues_uni__major": 0.0,
+      "target": "82d76aca8b4d845ed7bc5c74280f089c35447637"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 30.0,
+      "source": "8d95ae41975a2307501aa0f4a7eba296c59edce9",
+      "sonarqube_combined_issues_uni__major": 31.0,
+      "target": "8d601ab71228f7c3dff950540e7ee6e4043e9053"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 0.0,
+      "source": "a9f350eb94eb9f165bb5dd13912fbde3eced2dbc",
+      "sonarqube_combined_issues_uni__major": 0.0,
+      "target": "657704627b297a19a693645cf03c5c70ccd9a8bd"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 10.0,
+      "source": "0f6a292a29fedd49741310cd517ac4ba907bf8d4",
+      "sonarqube_combined_issues_uni__major": 10.0,
+      "target": "c14890f08b9bb47ab8ad27f4dd4c714e32961d0d"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 0.0,
+      "source": "efdff37fbacefe35c6f459b6f8a7483d3da85f8c",
+      "sonarqube_combined_issues_uni__major": 0.0,
+      "target": "33c104e1b4aee768558c63b2a43a88132ff93f6b"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": -5.0,
+      "source": "ec700cf69db225654aadce932dc000bdab302ccd",
+      "sonarqube_combined_issues_uni__major": -5.0,
+      "target": "ab0570e63aae3027239dcd5d22caab95111a5de8"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 0.0,
+      "source": "82d76aca8b4d845ed7bc5c74280f089c35447637",
+      "sonarqube_combined_issues_uni__major": 0.0,
+      "target": "1b362986bc99c04941d046ebb36e19c370435b1f"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": -73.0,
+      "source": "5df67bf13af9a044f3bf7d8df3bd2daa763843a7",
+      "sonarqube_combined_issues_uni__major": -46.0,
+      "target": "b0bcf4f60a1e92480d78e44e3fda6e42cfc1b207"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 33.0,
+      "source": "9f89fd4626bbb4e34a905835e397bcffbad59307",
+      "sonarqube_combined_issues_uni__major": 13.0,
+      "target": "0095d8adf26b9469115b1be0358cb09d1fcb5fd4"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 0.0,
+      "source": "def3c4672b1f99b35ec1fb1aaa316e6043463d73",
+      "sonarqube_combined_issues_uni__major": 0.0,
+      "target": "2cd3f0f10a797b744509903b8eca4fd2fd4ed6f6"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 0.0,
+      "source": "ea666d523021a3c33294030e7c6ac49a77be543a",
+      "sonarqube_combined_issues_uni__major": 0.0,
+      "target": "05647d46e9ac2bf674b320e8467616aa72954f3e"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 0.0,
+      "source": "7e605378202fe4e6c9f4aa6a10201b4205238710",
+      "sonarqube_combined_issues_uni__major": 0.0,
+      "target": "928e74f73f62f241c986f6ff609575e1d833413d"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 31.0,
+      "source": "05647d46e9ac2bf674b320e8467616aa72954f3e",
+      "sonarqube_combined_issues_uni__major": 30.0,
+      "target": "8d95ae41975a2307501aa0f4a7eba296c59edce9"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 15.0,
+      "source": "b0bcf4f60a1e92480d78e44e3fda6e42cfc1b207",
+      "sonarqube_combined_issues_uni__major": 11.0,
+      "target": "695342cb1cef42f30fd1a8496f181c92b21ae82d"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 0.0,
+      "source": "b0bcf4f60a1e92480d78e44e3fda6e42cfc1b207",
+      "sonarqube_combined_issues_uni__major": 0.0,
+      "target": "09c52410e62b0e1e221d413d7ab18feefcca6bf7"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 0.0,
+      "source": "795fe5d869594bde53f8490d75eedef6185b6c37",
+      "sonarqube_combined_issues_uni__major": 0.0,
+      "target": "f13d18cff3f0932e727dda04bf80008fc2fbbc70"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 0.0,
+      "source": "ab0570e63aae3027239dcd5d22caab95111a5de8",
+      "sonarqube_combined_issues_uni__major": 0.0,
+      "target": "0f87dceb80b432b434dbd81ed4f1ab97c740efc1"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": -12.0,
+      "source": "c0c7112dcdeb75b521d55cd47d0c61be66b0499e",
+      "sonarqube_combined_issues_uni__major": -7.0,
+      "target": "9f89fd4626bbb4e34a905835e397bcffbad59307"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 65.0,
+      "source": "c37a911d3a1541adc25c8d76f717015b2266d123",
+      "sonarqube_combined_issues_uni__major": 50.0,
+      "target": "a069c490e8119189fa2b43d3b597b79b3d42a367"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 3.0,
+      "source": "33c104e1b4aee768558c63b2a43a88132ff93f6b",
+      "sonarqube_combined_issues_uni__major": 5.0,
+      "target": "ec700cf69db225654aadce932dc000bdab302ccd"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 0.0,
+      "source": "23c706ff915c4be7d371d3098fc8de2cc3aa2b67",
+      "sonarqube_combined_issues_uni__major": 0.0,
+      "target": "b836907ddbc53d8c47d2e2a6a36a690faa2d82e6"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 10.0,
+      "source": "dfd69e038cc7035031d1807c4ade870d2a7e2ece",
+      "sonarqube_combined_issues_uni__major": 0.0,
+      "target": "011775551ef75d75f81189eb4604fd0f2ed424ba"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 495.0,
+      "source": "0136218fa363560cba9b2378d979f64a35e9b425",
+      "sonarqube_combined_issues_uni__major": 369.0,
+      "target": "795fe5d869594bde53f8490d75eedef6185b6c37"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 0.0,
+      "source": "f3d2d55ab9b783af65f2050272cd0318a9ad23a2",
+      "sonarqube_combined_issues_uni__major": 0.0,
+      "target": "efdff37fbacefe35c6f459b6f8a7483d3da85f8c"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 0.0,
+      "source": "429c847b24d2c4adb0b9768d1e38bf05e5bafb7b",
+      "sonarqube_combined_issues_uni__major": 0.0,
+      "target": "9dcd87f9c46786f3da54af7ac1ba4696840dffa8"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 0.0,
+      "source": "011775551ef75d75f81189eb4604fd0f2ed424ba",
+      "sonarqube_combined_issues_uni__major": 0.0,
+      "target": "aa75c23b2e51c8d42730c8b410e6a7148a7bb094"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 0.0,
+      "source": "011775551ef75d75f81189eb4604fd0f2ed424ba",
+      "sonarqube_combined_issues_uni__major": 0.0,
+      "target": "db12f89ad2e153d8494a92ee3a50a23faeb14912"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 0.0,
+      "source": "1b362986bc99c04941d046ebb36e19c370435b1f",
+      "sonarqube_combined_issues_uni__major": 0.0,
+      "target": "a08ec31dbf212a033953dc6916a743dccbb93e37"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 0.0,
+      "source": "d0e2bfc46659025e6262b2e5de984a8359c9dada",
+      "sonarqube_combined_issues_uni__major": 0.0,
+      "target": "7e605378202fe4e6c9f4aa6a10201b4205238710"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": -4.0,
+      "source": "928e74f73f62f241c986f6ff609575e1d833413d",
+      "sonarqube_combined_issues_uni__major": 0.0,
+      "target": "044367419dd317eb9f9935d8360280b8b8695462"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 10.0,
+      "source": "600eb9eb99dc5c03b047e3c81b49ee4769787c6a",
+      "sonarqube_combined_issues_uni__major": 0.0,
+      "target": "d0e2bfc46659025e6262b2e5de984a8359c9dada"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 13.0,
+      "source": "f13d18cff3f0932e727dda04bf80008fc2fbbc70",
+      "sonarqube_combined_issues_uni__major": 13.0,
+      "target": "f643b4fa939e89348618ddffae20a804f4461363"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 0.0,
+      "source": "f13d18cff3f0932e727dda04bf80008fc2fbbc70",
+      "sonarqube_combined_issues_uni__major": 0.0,
+      "target": "35c27d025beba1c1a26c6a4a101ef4e4602274cd"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": -5.0,
+      "source": "c14890f08b9bb47ab8ad27f4dd4c714e32961d0d",
+      "sonarqube_combined_issues_uni__major": -5.0,
+      "target": "f3d2d55ab9b783af65f2050272cd0318a9ad23a2"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 20.0,
+      "source": "0f87dceb80b432b434dbd81ed4f1ab97c740efc1",
+      "sonarqube_combined_issues_uni__major": 20.0,
+      "target": "c9a5e54a7c0b4c0be46940d136677a2c9f052ed7"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 0.0,
+      "source": "9dcd87f9c46786f3da54af7ac1ba4696840dffa8",
+      "sonarqube_combined_issues_uni__major": 0.0,
+      "target": "f55530a2ffd3c481f6554d98e9d73f2e8c62ec8d"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 0.0,
+      "source": "cdfb2aa1e1ae3029e5d73cb3b5ca90c7df222c8a",
+      "sonarqube_combined_issues_uni__major": 0.0,
+      "target": "bd5cc81ed7f91865aee7a5a7febeb237220d0c5a"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 30.0,
+      "source": "855a5238558d87dd70c6195e12f167b5848808bb",
+      "sonarqube_combined_issues_uni__major": 30.0,
+      "target": "600eb9eb99dc5c03b047e3c81b49ee4769787c6a"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 0.0,
+      "source": "f55530a2ffd3c481f6554d98e9d73f2e8c62ec8d",
+      "sonarqube_combined_issues_uni__major": 0.0,
+      "target": "dfd69e038cc7035031d1807c4ade870d2a7e2ece"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 0.0,
+      "source": "a069c490e8119189fa2b43d3b597b79b3d42a367",
+      "sonarqube_combined_issues_uni__major": 0.0,
+      "target": "d79e43216faba4b3e73536915bfddc550cc0f20f"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 0.0,
+      "source": "657704627b297a19a693645cf03c5c70ccd9a8bd",
+      "sonarqube_combined_issues_uni__major": 0.0,
+      "target": "855a5238558d87dd70c6195e12f167b5848808bb"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 0.0,
+      "source": "a08ec31dbf212a033953dc6916a743dccbb93e37",
+      "sonarqube_combined_issues_uni__major": 0.0,
+      "target": "0136218fa363560cba9b2378d979f64a35e9b425"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 0.0,
+      "source": "bd5cc81ed7f91865aee7a5a7febeb237220d0c5a",
+      "sonarqube_combined_issues_uni__major": 0.0,
+      "target": "a9f350eb94eb9f165bb5dd13912fbde3eced2dbc"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 0.0,
+      "source": "d79e43216faba4b3e73536915bfddc550cc0f20f",
+      "sonarqube_combined_issues_uni__major": 0.0,
+      "target": "ff4497aff8cc9de4e0b2c6e5e23e5b6550f76f29"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 0.0,
+      "source": "7f7fa03eac02850550cb28f370a4d2adbb2295fb",
+      "sonarqube_combined_issues_uni__major": 0.0,
+      "target": "cdfb2aa1e1ae3029e5d73cb3b5ca90c7df222c8a"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 0.0,
+      "source": "ff4497aff8cc9de4e0b2c6e5e23e5b6550f76f29",
+      "sonarqube_combined_issues_uni__major": 0.0,
+      "target": "ea666d523021a3c33294030e7c6ac49a77be543a"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 59.0,
+      "source": "8d601ab71228f7c3dff950540e7ee6e4043e9053",
+      "sonarqube_combined_issues_uni__major": 14.0,
+      "target": "c0c7112dcdeb75b521d55cd47d0c61be66b0499e"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 0.0,
+      "source": "2d6dea18b08caf615329eef0032f16911c5388d0",
+      "sonarqube_combined_issues_uni__major": 0.0,
+      "target": "def3c4672b1f99b35ec1fb1aaa316e6043463d73"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 0.0,
+      "source": "044367419dd317eb9f9935d8360280b8b8695462",
+      "sonarqube_combined_issues_uni__major": 0.0,
+      "target": "bd7788b384a87024ddd6bbe6a9bd9a167cf2ec12"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 0.0,
+      "source": "c9a5e54a7c0b4c0be46940d136677a2c9f052ed7",
+      "sonarqube_combined_issues_uni__major": 0.0,
+      "target": "23c706ff915c4be7d371d3098fc8de2cc3aa2b67"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 0.0,
+      "source": "86a082e8be8c51f07079ded82d6d125c9efc1791",
+      "sonarqube_combined_issues_uni__major": 0.0,
+      "target": "ebcef2d16a81bfe1a818a362fd03cb5063640003"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 0.0,
+      "source": "e6b830bf95f712672cb9e77cd852606cd134c5fc",
+      "sonarqube_combined_issues_uni__major": 0.0,
+      "target": "050b67d4f88d60e03a57fa5cf2177088b8224092"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 0.0,
+      "source": "695342cb1cef42f30fd1a8496f181c92b21ae82d",
+      "sonarqube_combined_issues_uni__major": 0.0,
+      "target": "b6d35656f4b0dde16c2e6e5a04c1487e244708a8"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": -2.0,
+      "source": "bd7788b384a87024ddd6bbe6a9bd9a167cf2ec12",
+      "sonarqube_combined_issues_uni__major": 0.0,
+      "target": "86a082e8be8c51f07079ded82d6d125c9efc1791"
+    },
+    {
+      "sonarqube_combined_issues_uni__total": 0.0,
+      "source": "0095d8adf26b9469115b1be0358cb09d1fcb5fd4",
+      "sonarqube_combined_issues_uni__major": 0.0,
+      "target": "0f6a292a29fedd49741310cd517ac4ba907bf8d4"
+    }
+  ]
+}
